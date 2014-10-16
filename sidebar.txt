@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bwf:home|Door43 (bwf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bwf|d43-bwf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bwf/archive/master.zip|d43-bwf.zip]]
+
+**Recent Changes**
+{{changes>ns = bwf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bwf|Ethnologue data]]
+
